@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/c/Users/cardy/OneDrive/Documents/thinking-in-c/code/Chap5'
+gcc -c reverse.c
+gcc -o reverse reverse.o 
+make: Leaving directory '/c/Users/cardy/OneDrive/Documents/thinking-in-c/code/Chap5'
+ 
