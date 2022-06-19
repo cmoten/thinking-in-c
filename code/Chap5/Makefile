@@ -1,6 +1,6 @@
 CC=gcc
 
-all: float limits missing lab2
+all: reverse
 
 %.o: %.c
 	$(CC) -c $^
