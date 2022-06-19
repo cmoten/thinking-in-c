@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Sat Jun 18 18:45:41 2022
+# Make data base, printed on Sun Jun 19 19:36:10 2022
 
 # Variables
 
@@ -25,7 +25,7 @@ SSH_AGENT_LAUNCHER = gnome-keyring
 # environment
 GJS_DEBUG_OUTPUT = stderr
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-4858f454-99bf-4bb1-b777-d1d607c1a648.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-30c0effb-517a-426f-8720-18c8bbce9190.sock
 # environment
 MANDATORY_PATH = /usr/share/gconf/pop.mandatory.path
 # environment
@@ -105,7 +105,7 @@ CONDA_SHLVL = 0
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 7989
+VSCODE_PID = 17472
 # environment
 SDKMAN_DIR = /home/cmoten/.sdkman
 # environment
@@ -211,7 +211,7 @@ MANAGERPID = 2267
 # environment
 LC_MEASUREMENT = en_US.UTF-8
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 7989
+GIO_LAUNCHED_DESKTOP_FILE_PID = 17472
 # environment
 _ = /usr/share/code/code
 # environment
@@ -280,6 +280,7 @@ LC_IDENTIFICATION = en_US.UTF-8
 # Not a target:
 Makefile:
 #  Implicit rule search has been done.
+ 
 #  File does not exist.
 #  File has been updated.
 #  Failed to be updated.
@@ -306,7 +307,6 @@ makefile:
 
 # Not a target:
 GNUmakefile:
- 
 #  Implicit rule search has been done.
 #  File does not exist.
 #  File has been updated.
@@ -326,6 +326,6 @@ GNUmakefile:
 # strcache performance: lookups = 21 / hit rate = 14%
 # hash-table stats:
 # Load=18/8192=0%, Rehash=0, Collisions=0/21=0%
-# Finished Make data base on Sat Jun 18 18:45:41 2022
+# Finished Make data base on Sun Jun 19 19:36:10 2022
 
  

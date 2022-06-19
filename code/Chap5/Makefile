@@ -9,4 +9,4 @@ reverse: reverse.o
 	$(CC) -o $@ $^ 
 
 clean:
-	rm *.o *.exe
+	rm reverse *.o
